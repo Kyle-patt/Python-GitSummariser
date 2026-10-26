@@ -50,3 +50,7 @@ See the backend requirements and the integration contract in `docs/integration-c
 
 
 
+
+# Python-GitSummariser
+A Python-based tool that analyzes Git repositories and generates concise, meaningful summaries of codebases, commits, and project activity.
+
