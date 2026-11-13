@@ -1,0 +1,2 @@
+"""GitSummarizer Backend Application Package."""
+
